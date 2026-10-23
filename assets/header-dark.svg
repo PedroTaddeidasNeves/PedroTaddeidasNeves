@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
   <title id="title">Pedro Taddei</title>
-  <desc id="desc">Full-stack development. Web, mobile and AI tooling. A simple diagram connects three nodes on the right.</desc>
+  <desc id="desc">Sofware developer. Web, mobile and AI tooling. A simple diagram connects three nodes on the right.</desc>
   <rect width="1200" height="280" rx="16" fill="#0d1117"/>
   <rect x="1" y="1" width="1198" height="278" rx="15" fill="none" stroke="#30363d"/>
   <path d="M48 50h28" stroke="#67e8c4" stroke-width="3"/>

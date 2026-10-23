@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Pedro Taddei</title>
+  <desc id="desc">Full-stack development. Web, mobile and AI tooling. A simple diagram connects three nodes on the right.</desc>
+  <rect width="1200" height="280" rx="16" fill="#f6f8fa"/>
+  <rect x="1" y="1" width="1198" height="278" rx="15" fill="none" stroke="#d1d9e0"/>
+  <path d="M48 50h28" stroke="#087f68" stroke-width="3"/>
+  <text x="89" y="55" fill="#596875" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" letter-spacing="2">BUILD · CONNECT · REFINE</text>
+  <text x="46" y="142" fill="#1f2328" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="68" font-weight="650" letter-spacing="-2.5">Pedro Taddei<tspan fill="#087f68">.</tspan></text>
+  <text x="49" y="190" fill="#596875" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="24">Full-stack development</text>
+  <text x="49" y="239" fill="#667785" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15">WEB / MOBILE / AI TOOLING</text>
+  <g fill="none" stroke="#c4d0d8" stroke-width="1.5">
+    <path d="M865 94h65q22 0 22 22v48q0 22 22 22h61"/>
+    <path d="M865 186h65q22 0 22-22v-48q0-22 22-22h61"/>
+    <rect x="809" y="69" width="56" height="50" rx="12"/>
+    <rect x="809" y="161" width="56" height="50" rx="12"/>
+    <rect x="1035" y="69" width="56" height="50" rx="12"/>
+    <rect x="1035" y="161" width="56" height="50" rx="12"/>
+  </g>
+  <g fill="none" stroke="#667785" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m833 87-7 7 7 7m8-14 7 7-7 7"/>
+    <rect x="830" y="175" width="14" height="22" rx="3"/>
+    <path d="M1053 87h20v14h-20zM1057 105h12"/>
+    <path d="m1063 176 3 7 7 3-7 3-3 7-3-7-7-3 7-3z"/>
+  </g>
+  <circle cx="952" cy="140" r="13" fill="#f6f8fa" stroke="#087f68" stroke-width="1.5"/>
+  <circle cx="952" cy="140" r="3" fill="#087f68"/>
+</svg>

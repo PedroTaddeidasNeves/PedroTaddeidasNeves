@@ -1,12 +1,12 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img alt="Pedro Taddei — Sofware developer · Web, mobile & AI tooling" src="assets/header-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-software-developer-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-software-developer-light.svg">
+  <img alt="Pedro Taddei — Software developer · Web, mobile & AI tooling" src="assets/header-software-developer-light.svg" width="100%">
 </picture>
 
 ### Software for real workflows.
 
-I'm **Pedro**, a full-stack developer at **Biz Simplesnologia**, based in Brazil. I build business software, web and mobile products, and tools for AI-assisted development.
+I'm **Pedro**, a software developer at **Biz Simplesnologia**, based in Brazil. I build business software, web and mobile products, and tools for AI-assisted development.
 
 My work connects data models, APIs and interfaces — with particular attention to business rules, clear contracts and maintainable code.
 
@@ -39,7 +39,7 @@ I value simple designs, explicit boundaries and tests that check behavior. Most 
 
 ### Software para o trabalho de verdade.
 
-Sou o **Pedro**, desenvolvedor full-stack na **Biz Simplesnologia**, no Brasil. Construo sistemas de negócio, produtos web e mobile e ferramentas para desenvolvimento com IA.
+Sou o **Pedro**, desenvolvedor de software na **Biz Simplesnologia**, no Brasil. Construo sistemas de negócio, produtos web e mobile e ferramentas para desenvolvimento com IA.
 
 Meu trabalho conecta modelos de dados, APIs e interfaces, com atenção às regras de negócio, contratos claros e código fácil de manter.
 
